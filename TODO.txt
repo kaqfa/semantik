@@ -1,0 +1,16 @@
+- ReviewerAdmin, Reviewer hanya tampil yang role-nya reviewer aja
+- Semua user tampilkan fullname
+- PaperAdmin, iniline file default 1
+- Biaya seharusnya otomatis ngitung sendiri, saat registrasi profil dan submit paper
+- Setiap create paper, harusnya otomatis bikin row review sendiri
+- Review tidak boleh add, karena sudah otomatis dibuat saat submit paper
+- kolom status pembayaran tidak terlihat, dan auto pending
+
+- semua input owner hanya terlihat oleh admin saja, yang lain otomatis
+- ProfileAdmin input status dan role hanya terlihat oleh admin
+- MessageAdmin input sender auto self, receiver auto admin
+- MessageAdmin input status auto terkirim
+- Category only admin
+- Keyword ganti pake taggit
+- PaperAdmin input status auto submitted, diubah saat setelah review
+- ReviewAdmin for_paper jadi read only
